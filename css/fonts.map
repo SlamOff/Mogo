@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/fonts.css",
+	"sources": [
+		"../sass/fonts.sass"
+	],
+	"sourcesContent": [
+		"\n@font-face {\n  font-family: \"Roboto\";\n  src: url(\"../fonts/Roboto/Roboto-Regular.ttf\") format(\"truetype\");\n  font-style: normal;\n  font-weight: normal; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat/Montserrat-Regular.ttf\") format(\"truetype\");\n  font-style: normal;\n  font-weight: normal; }\n\n\n@font-face {\n  font-family: \"Montserrat\";\n  src: url(\"../fonts/Montserrat/Montserrat-Bold.ttf\") format(\"truetype\");\n  font-style: norma;\n  font-weight: 700; }\n\n\n@font-face {\n  font-family: \"Kaushan\";\n  src: url(\"../fonts/Kaushan_Script/KaushanScript-Regular.ttf\") format(\"truetype\");\n  font-style: normal;\n  font-weight: normal; }\n"
+	],
+	"mappings": "AACA,UAAU;EACR,WAAW,EAAE,QAAS;EACtB,GAAG,EAAE,yCAAG,CAAuC,kBAAM;EACrD,UAAU,EAAE,MAAO;EACnB,WAAW,EAAE,MAAO;;;AAGtB,UAAU;EACR,WAAW,EAAE,YAAa;EAC1B,GAAG,EAAE,iDAAG,CAA+C,kBAAM;EAC7D,UAAU,EAAE,MAAO;EACnB,WAAW,EAAE,MAAO;;;AAGtB,UAAU;EACR,WAAW,EAAE,YAAa;EAC1B,GAAG,EAAE,8CAAG,CAA4C,kBAAM;EAC1D,UAAU,EAAE,KAAM;EAClB,WAAW,EAAE,GAAI;;;AAGnB,UAAU;EACR,WAAW,EAAE,SAAU;EACvB,GAAG,EAAE,wDAAG,CAAsD,kBAAM;EACpE,UAAU,EAAE,MAAO;EACnB,WAAW,EAAE,MAAO",
+	"names": []
+}

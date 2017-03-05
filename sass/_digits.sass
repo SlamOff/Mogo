@@ -1,0 +1,21 @@
+.digits
+  background-color: $mainColor2
+  color: #fff
+  padding-top: 0
+  &__container
+    @extend .flex_container
+  &__digit
+    width: 20%
+    border-right: 1px solid transparentize(#fff, .7)
+    text-align: center
+    padding: 80px 0
+    &_val
+      font-size: 72px
+      font-weight: 700
+      font-family: $titleFont
+    &_descr
+      font-size: 14px
+      font-family: $titleFont
+      text-transform: uppercase
+    &:first-child
+      border-left: 1px solid transparentize(#fff, .7)
